@@ -112,5 +112,24 @@ dotnet run --url https://www.stepstone.de/jobs/frontend-developer --max-jobs 3
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
+## ⚠️ Disclaimer
 
+This project is intended for educational and personal use only.
+
+    This scraper is not affiliated with, endorsed by, or in any way connected to StepStone GmbH or its affiliates.
+
+    It uses publicly available web pages and does not bypass any authentication or access controls.
+
+    You are responsible for complying with the Terms of Service of StepStone, as well as any applicable laws and regulations.
+
+    The author assumes no liability for any misuse of this code, including but not limited to:
+
+        Accessing data you are not authorized to view
+
+        Overloading StepStone’s servers
+
+        Violating any terms of service or legal restrictions
+
+    Use this project at your own risk. All warranties and liabilities are disclaimed to the fullest extent permitted by law.
+    
 *Happy scraping & good luck with your next application!*
